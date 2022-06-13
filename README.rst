@@ -1,4 +1,4 @@
-FarmDashboard
+Farm Dashboard
 ================================================================================
 
 * `詳細安裝說明 <https://hackmd.io/5LqVk4MBSCinRXQderD_Jw>`_
